@@ -13,3 +13,8 @@ Followed the tutorial on making a glass with fluid physics simulation on [youtub
 
 Followed the series of basics tutorials on [youtube](https://www.youtube.com/watch?v=yi87Dap_WOc) by Andrew Price. Results:
 ![Anvil gif](anvil/render/renders_1.gif)
+
+## City
+
+Followed the tutorial for creating a city scene in blender on [youtube](https://www.youtube.com/watch?v=XCEN0qQOsIA&t=1587s) again by Blender Guru. Results:
+![City scene](city/renders/city_1.png)
