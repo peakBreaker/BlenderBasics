@@ -18,3 +18,8 @@ Followed the series of basics tutorials on [youtube](https://www.youtube.com/wat
 
 Followed the tutorial for creating a city scene in blender on [youtube](https://www.youtube.com/watch?v=XCEN0qQOsIA&t=1587s) again by Blender Guru. Results:
 ![City scene](city/renders/city_1.png)
+
+## Rigidbody fun
+
+Followed tutorial for rigidbody fun in blender on [youtube](https://www.youtube.com/watch?v=nHVYYMG3QVY). Results:
+![Rigidbody fun](rigidbody_fun_1/renders/renders_1.gif)
